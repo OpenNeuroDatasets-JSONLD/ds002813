@@ -1,7 +1,7 @@
 {
     "Name": "Model-based fMRI reveals co-existing specific and generalized concept representations",
     "BIDSVersion": "1.3.0",
-    "License": "CCO",
+    "License": "CC0",
     "Authors": [
         "Bowman, C.R.",
         "Iwashita, T.",
@@ -19,5 +19,5 @@
         "",
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "10.18112/openneuro.ds002813.v1.0.0"
 }
